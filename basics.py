@@ -4,7 +4,7 @@
 
 # Requirements:
 
-# Accept student records (name, matric number, and a list of courses with scores).
+# Accept student records (name, matric number, and a list of courses with scores). 
 # Example:
 
 # {
@@ -16,7 +16,6 @@
 #         "CSC105": 72
 #     }
 # }
-
 
 # Support these features:
 
