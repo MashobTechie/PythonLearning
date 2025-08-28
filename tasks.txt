@@ -1,0 +1,62 @@
+# Python Fundamentals Practice Tasks
+# Progression: Small → Medium → Big Projects
+# Check them off as you go ✅
+
+------------------------
+EASY WARM-UP TASKS
+------------------------
+
+[ ] 1. Odd or Even Checker
+    - Ask the user for a number
+    - Print whether it is odd or even
+
+[ ] 2. Multiplication Table
+    - Ask for a number
+    - Print its multiplication table from 1 to 12
+
+[ ] 3. Palindrome Checker
+    - Ask the user for a word
+    - Print whether it reads the same forward and backward
+
+[ ] 4. List Operations
+    - Take a list of numbers (e.g., [3, 7, 2, 9, 5])
+    - Find the max, min, sum, and average
+    - Sort the list ascending and descending
+
+[ ] 5. Simple Calculator
+    - Build a calculator with +, -, *, /
+    - Keep asking until user types "exit"
+
+------------------------
+MAIN CHALLENGES
+------------------------
+
+[ ] 6. Expense Tracker (File I/O + Dicts)
+    - Add expenses with amount, category, date
+    - View all expenses
+    - Summarize by category
+    - Save/load from CSV file
+
+[ ] 7. Word Frequency Analyzer (Text Processing)
+    - Read a text file
+    - Output 10 most common words
+    - Count total unique words
+    - Ignore case & punctuation
+
+[ ] 8. Dice Roll Simulator (Random + OOP)
+    - Simulate rolling dice
+    - Ask user how many rolls
+    - Show stats (distribution of outcomes)
+    - Bonus: Use a Dice class
+
+[ ] 9. Weather CLI (API + JSON)
+    - Ask for a city
+    - Fetch current weather via API
+    - Display temperature, humidity, description
+    - Handle errors
+
+[ ] 10. Tic-Tac-Toe (2-Player Game)
+    - Display 3x3 board
+    - Alternate between X and O
+    - Detect win/draw
+    - Option to restart
