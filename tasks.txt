@@ -59,4 +59,4 @@ MAIN CHALLENGES
     - Display 3x3 board
     - Alternate between X and O
     - Detect win/draw
-    - Option to restart
+    - Option to restart 
